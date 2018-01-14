@@ -70,6 +70,6 @@ tidy_data <- second_dataset %>% select(-c(1:2))
 
 # means of means and stds
 names(tidy_data) <- paste("Means of ", names(tidy_data))
-write.table(tidy_data,file = "tidy_data.txt",sep = ",") 
+write.table(tidy_data,file = "tidy_data.txt",sep = ",",row.names = FALSE)
 
 
