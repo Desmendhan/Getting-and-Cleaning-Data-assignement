@@ -65,7 +65,7 @@ real_data <- real_data[order(real_data$`volunteers`),]
 # gather then dcast to get mean of each variable.
 
 second_rawdata <- real_data %>% gather(key = variables,value = value, -c(1:2))
-second_dataset <- dcast(Second_rawdata,volunteers + activities ~ variables,mean)
+second_dataset <- dcast(second_rawdata,volunteers + activities ~ variables,mean)
 tidy_data <- second_dataset %>% select(-c(1:2))
 
 # means of means and stds
