@@ -38,4 +38,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 - 'real_data' : First table according to step 1-4 in README.md
 
-- 'tidy_data' : table for Step 5
+- 'second_dataset' : table for Step 5, volunteer and activity included
+
+- 'tidy_data' : table for Step 5 volunteer and activity excluded.
+
