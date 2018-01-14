@@ -44,160 +44,83 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 
 ## Variables in table:
-Means of  fBodyAcc-mean-X
-
-Means of  fBodyAcc-mean-Y
-
-Means of  fBodyAcc-mean-Z
-
-Means of  fBodyAcc-meanFreq-X
-
-Means of  fBodyAcc-meanFreq-Y
-
-Means of  fBodyAcc-meanFreq-Z
-
-Means of  fBodyAcc-std-X
-
-Means of  fBodyAcc-std-Y
-
-Means of  fBodyAcc-std-Z
-
-Means of  fBodyAccJerk-mean-X
-
-Means of  fBodyAccJerk-mean-Y
-
-Means of  fBodyAccJerk-mean-Z
-
-Means of  fBodyAccJerk-meanFreq-X
-
-Means of  fBodyAccJerk-meanFreq-Y
-
-Means of  fBodyAccJerk-meanFreq-Z
-
-Means of  fBodyAccJerk-std-X
-
-Means of  fBodyAccJerk-std-Y
-
-Means of  fBodyAccJerk-std-Z
-
-Means of  fBodyAccMag-mean
-
-Means of  fBodyAccMag-meanFreq
-
-Means of  fBodyAccMag-std
-
-Means of  fBodyBodyAccJerkMag-mean
-
-Means of  fBodyBodyAccJerkMag-meanFreq
-
-Means of  fBodyBodyAccJerkMag-std
-
-Means of  fBodyBodyGyroJerkMag-mean
-
-Means of  fBodyBodyGyroJerkMag-meanFreq
-
-Means of  fBodyBodyGyroJerkMag-std
-
-Means of  fBodyBodyGyroMag-mean
-
-Means of  fBodyBodyGyroMag-meanFreq
-
-Means of  fBodyBodyGyroMag-std
-
-Means of  fBodyGyro-mean-X
-
-Means of  fBodyGyro-mean-Y
-
-Means of  fBodyGyro-mean-Z
-
-Means of  fBodyGyro-meanFreq-X
-
-Means of  fBodyGyro-meanFreq-Y
-
-Means of  fBodyGyro-meanFreq-Z
-Means of  fBodyGyro-std-X
-
-Means of  fBodyGyro-std-Y
-
-Means of  fBodyGyro-std-Z
-
-Means of  tBodyAcc-mean-X
-
-Means of  tBodyAcc-mean-Y
-
-Means of  tBodyAcc-mean-Z
-
-Means of  tBodyAcc-std-X
-
-Means of  tBodyAcc-std-Y
-
-Means of  tBodyAcc-std-Z
-
-Means of  tBodyAccJerk-mean-X
-
-Means of  tBodyAccJerk-mean-Y
-
-Means of  tBodyAccJerk-mean-Z
-
-Means of  tBodyAccJerk-std-X
-
-Means of  tBodyAccJerk-std-Y
-
-Means of  tBodyAccJerk-std-Z
-
-Means of  tBodyAccJerkMag-mean
-
-Means of  tBodyAccJerkMag-std
-
-Means of  tBodyAccMag-mean
-
-Means of  tBodyAccMag-std
-
-Means of  tBodyGyro-mean-X
-
-Means of  tBodyGyro-mean-Y
-
-Means of  tBodyGyro-mean-Z
-
-Means of  tBodyGyro-std-X
-
-Means of  tBodyGyro-std-Y
-
-Means of  tBodyGyro-std-Z
-
-Means of  tBodyGyroJerk-mean-X
-
-Means of  tBodyGyroJerk-mean-Y
-
-Means of  tBodyGyroJerk-mean-Z
-
-Means of  tBodyGyroJerk-std-X
-
-Means of  tBodyGyroJerk-std-Y
-
-Means of  tBodyGyroJerk-std-Z
-
-Means of  tBodyGyroJerkMag-mean
-
-Means of  tBodyGyroJerkMag-std
-
-Means of  tBodyGyroMag-mean
-
-Means of  tBodyGyroMag-std
-
-Means of  tGravityAcc-mean-X
-
-Means of  tGravityAcc-mean-Y
-
-Means of  tGravityAcc-mean-Z
-
-Means of  tGravityAcc-std-X
-
-Means of  tGravityAcc-std-Y
-
-Means of  tGravityAcc-std-Z
-
-Means of  tGravityAccMag-mean
-
-Means of  tGravityAccMag-std
+* Means of  fBodyAcc-mean-X
+* Means of  fBodyAcc-mean-Y
+* Means of  fBodyAcc-mean-Z
+* Means of  fBodyAcc-meanFreq-X
+* Means of  fBodyAcc-meanFreq-Y
+* Means of  fBodyAcc-meanFreq-Z
+* Means of  fBodyAcc-std-X
+* Means of  fBodyAcc-std-Y
+* Means of  fBodyAcc-std-Z
+* Means of  fBodyAccJerk-mean-X
+* Means of  fBodyAccJerk-mean-Y
+* Means of  fBodyAccJerk-mean-Z
+* Means of  fBodyAccJerk-meanFreq-X
+* Means of  fBodyAccJerk-meanFreq-Y
+* Means of  fBodyAccJerk-meanFreq-Z
+* Means of  fBodyAccJerk-std-X
+* Means of  fBodyAccJerk-std-Y
+* Means of  fBodyAccJerk-std-Z
+* Means of  fBodyAccMag-mean
+* Means of  fBodyAccMag-meanFreq
+* Means of  fBodyAccMag-std
+* Means of  fBodyBodyAccJerkMag-mean
+* Means of  fBodyBodyAccJerkMag-meanFreq
+* Means of  fBodyBodyAccJerkMag-std
+* Means of  fBodyBodyGyroJerkMag-mean
+* Means of  fBodyBodyGyroJerkMag-meanFreq
+* Means of  fBodyBodyGyroJerkMag-std
+* Means of  fBodyBodyGyroMag-mean
+* Means of  fBodyBodyGyroMag-meanFreq
+* Means of  fBodyBodyGyroMag-std
+* Means of  fBodyGyro-mean-X
+* Means of  fBodyGyro-mean-Y
+* Means of  fBodyGyro-mean-Z
+* Means of  fBodyGyro-meanFreq-X
+* Means of  fBodyGyro-meanFreq-Y
+* Means of  fBodyGyro-meanFreq-Z
+* Means of  fBodyGyro-std-X
+* Means of  fBodyGyro-std-Y
+* Means of  fBodyGyro-std-Z
+* Means of  tBodyAcc-mean-X
+* Means of  tBodyAcc-mean-Y
+* Means of  tBodyAcc-mean-Z
+* Means of  tBodyAcc-std-X
+* Means of  tBodyAcc-std-Y
+* Means of  tBodyAcc-std-Z
+* Means of  tBodyAccJerk-mean-X
+* Means of  tBodyAccJerk-mean-Y
+* Means of  tBodyAccJerk-mean-Z
+* Means of  tBodyAccJerk-std-X
+* Means of  tBodyAccJerk-std-Y
+* Means of  tBodyAccJerk-std-Z
+* Means of  tBodyAccJerkMag-mean
+* Means of  tBodyAccJerkMag-std
+* Means of  tBodyAccMag-mean
+* Means of  tBodyAccMag-std
+* Means of  tBodyGyro-mean-X
+* Means of  tBodyGyro-mean-Y
+* Means of  tBodyGyro-mean-Z
+* Means of  tBodyGyro-std-X
+* Means of  tBodyGyro-std-Y
+* Means of  tBodyGyro-std-Z
+* Means of  tBodyGyroJerk-mean-X
+* Means of  tBodyGyroJerk-mean-Y
+* Means of  tBodyGyroJerk-mean-Z
+* Means of  tBodyGyroJerk-std-X
+* Means of  tBodyGyroJerk-std-Y
+* Means of  tBodyGyroJerk-std-Z
+* Means of  tBodyGyroJerkMag-mean
+* Means of  tBodyGyroJerkMag-std
+* Means of  tBodyGyroMag-mean
+* Means of  tBodyGyroMag-std
+* Means of  tGravityAcc-mean-X
+* Means of  tGravityAcc-mean-Y
+* Means of  tGravityAcc-mean-Z
+* Means of  tGravityAcc-std-X
+* Means of  tGravityAcc-std-Y
+* Means of  tGravityAcc-std-Z
+* Means of  tGravityAccMag-mean
+* Means of  tGravityAccMag-std
 
